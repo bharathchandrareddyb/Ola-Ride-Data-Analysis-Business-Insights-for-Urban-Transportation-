@@ -14,7 +14,7 @@ This project simulates real-world ride-calling data for Bengaluru and includes 2
 - **Date & Time**: Tracks booking trends and peak hours.  
 - **Booking ID**: Unique 10-digit IDs (e.g., `CNR12345678`).  
 - **Booking Status**: Successful, Cancelled (Customer/Driver), or Incomplete.  
-- **Vehicle Type**: Includes categories like Auto, Bike, Prime Sedan, Mini, etc.  
+- **Vehicle Type**: Includes categories like Auto, Bike, Prime Sedan, etc.  
 - **Pickup & Drop Locations**: Randomized across 50 prominent areas in Bengaluru.  
 - **Cancellation Reasons**: Detailed reasons for cancellations by customers and drivers.  
 - **Ride Metrics**: Includes VTAT (Vehicle Time to Arrive), CTAT (Customer Time to Arrive), Ride Distance, and more.  
